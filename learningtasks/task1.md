@@ -9,8 +9,6 @@
 
 ## Issues
 
-* Locate the `csdbg-client` repository on GitLab and create a branch named
-  `<your name>-master` (e.g. `kellas-master`).
 * Create the file `csdbg.py` and implement the following functionality
   using Python 3.5 or newer:
     * Parse the following arguments from the command line: `--ip <IP address>`,
