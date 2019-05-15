@@ -8,8 +8,7 @@
 
 ## Issues
 
-* Locate the `csdbg-service` repository on GitLab and create a branch named
-    `<your name>-master` (e.g. `kellas-master`) and implement the following
+* Create a folder named `csdbg-service` and implement the following
     functionality in C as a file named `csdbgd.c` (note the trailing 'd'):
     * Create a socket that listens for and accepts TCP connections on port
       1337.
