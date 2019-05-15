@@ -9,7 +9,8 @@
 
 ## Issues
 
-* Create the file `csdbg.py` and implement the following functionality
+* Create a folder `csdbg-client`
+* Create the file `csdbg.py` inside this folder and implement the following functionality
   using Python 3.5 or newer:
     * Parse the following arguments from the command line: `--ip <IP address>`,
       `--target <target executable>`, `--pid <pid number>`, and 
